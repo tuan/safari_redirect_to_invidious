@@ -3,8 +3,8 @@ A simple Safari extension that redirects YouTube's video pages to an Invidious i
 Features:
 
 - Choose Your Invidious Instance: Select your preferred Invidious instance, whether it's self-hosted or a public instance. Many public instances can be find here https://docs.invidious.io/instances/.
-- Automatic Redirection (Default): Video pages are automatically redirected to Invidious.
-- Manual Redirection Control: Toggle automatic redirection on/off in the extension popup. When off, manually redirect any YouTube video to Invidious by clicking "Redirect."
+- Automatic Redirection: Video pages are automatically redirected to Invidious.
+- Manual Redirection Control (Default): Toggle automatic redirection on/off in the extension popup. When off, manually redirect any YouTube video to Invidious by clicking "Redirect."
 
 How to build:
 - Create XCode's Safari Web Extension project
